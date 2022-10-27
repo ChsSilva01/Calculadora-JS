@@ -1,0 +1,9 @@
+#imagens{
+    max-width: 400px;
+    border: 10px solid #90fe00;
+}
+
+#imagens:active{
+    border: 10px solid #0ca9f1;
+
+}
