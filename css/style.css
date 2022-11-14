@@ -1,9 +1,75 @@
-#imagens{
-    max-width: 400px;
-    border: 10px solid #90fe00;
+.h{
+    width: 100%;
+    height: 500px;
+    top: 20%;
+    left: 0%;
+    position: absolute;
 }
-
-#imagens:active{
-    border: 10px solid #0ca9f1;
-
+.p{
+    font-size: 70px;
+    text-align: center;
+    width: 100%;
+    position: relative;
+}
+#s{
+    width: 350px;
+    height: 350px;
+    left: 335px;
+    top: 10%;
+    position: absolute;
+    background-color: #eaec55;
+    border: 2px solid #000;
+    border-radius: 5%;
+}
+.f{
+    width: 350px;
+    height: 25px;
+    left: 0px;
+    top: 5px;
+    position: absolute;    
+}
+.c{
+    padding-left: 10px;
+}
+.b{
+    padding-left: 80px;
+}
+.d{
+    padding-left: 90px;
+}
+.a{
+    width: 350px;
+    height: 50px;
+    left: 10%;
+    top: 20%;
+    position: absolute;
+}
+.z{
+    width: 350px;
+    height: 70px;
+    left: 23%;
+    top: 40%;
+    position: absolute;
+}
+.t{
+    width: 150px;
+    height: 25px;
+    left: 25px;
+    top: 30px;
+    position: absolute;
+    background-color: #fff;
+    border-radius: 5%;   
+    text-align: center; 
+    border: 1px solid #000;
+}
+.l{
+    width: 230px;
+    height: 100px;
+    top: 10%;
+    right: 29%;
+    position: absolute;
+    text-align: justify;
+}
+.back{
+    background-color: #cdf5f5;
 }
